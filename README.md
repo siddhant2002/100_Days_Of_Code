@@ -3,3 +3,7 @@ Day 1.1 - Missing number in array. <br>
 Day 1.2 - Trailing zeroes in factorial. <br><hr>
 Day 2.1 - BFS of Graph. <br>
 Day 2.2 - DFS of Graph. <br><hr>
+Day 3.1 - . <br>
+Day 3.2 - . <br><hr>
+Day 4.1 - . <br>
+Day 4.2 - . <br><hr>
