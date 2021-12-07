@@ -6,4 +6,4 @@ Day 2.2 - DFS of Graph. <br><hr>
 Day 3.1 - Rotate Array. <br>
 Day 3.2 - Nth Natural Number. <br><hr>
 Day 4.1 - Smallest Positive Integer that can not be represented as Sum. <br>
-Day 4.2 - . <br><hr>
+Day 4.2 - Majority Element. <br><hr>
