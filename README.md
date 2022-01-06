@@ -16,6 +16,6 @@ Day 7.2 - Sort an array of 0s, 1s and 2s. <br><hr>
 Day 8.1 - Union of two arrays. <br>
 Day 8.2 - Cyclically rotate an array by one. <br><hr>
 Day 9.1 - Kadane's Algorithm. <br>
-Day 9.2 - Frequencies of Limited Range Array Elements. <br><hr>
-Day 10.1 - Alternate positive and negative numbers. <br>
-Day 10.2 - Frequencies of Limited Range Array Elements. <br><hr>
+Day 9.2 - Median in a row-wise sorted Matrix. <br><hr>
+Day 10.1 - Row with max 1s. <br>
+Day 10.2 - Sorted matrix. <br><hr>
