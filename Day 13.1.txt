@@ -29,3 +29,48 @@ Expected Space Complexity: O(V)
 
 Constraints:
 1 ≤ V, E ≤ 105
+
+
+
+class Solution
+{
+    public boolean isBipartite(int v, ArrayList<ArrayList<Integer>>adj)
+    {
+        int k[]=new int[v];
+        Arrays.fill(k,-1);
+        for(int i=0;i<v;i++)
+        {
+            if(k[i]==-1)
+            {
+                if(!task(k,i,adj))
+                {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+    static boolean task(int k[] , int p , ArrayList<ArrayList<Integer>>adj)
+    {
+        Queue<Integer> nm=new LinkedList<>();
+        k[p]=1;
+        nm.add(p);
+        while(!nm.isEmpty())
+        {
+            int m=nm.poll();
+            for(int s:adj.get(m))
+            {
+                if(k[s]==-1)
+                {
+                    k[s]=1-k[m];
+                    nm.add(s);
+                }
+                else if(k[s]==k[m])
+                {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+}
