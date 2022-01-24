@@ -19,3 +19,7 @@ Day 9.1 - Kadane's Algorithm. <br>
 Day 9.2 - Median in a row-wise sorted Matrix. <br><hr>
 Day 10.1 - Row with max 1s. <br>
 Day 10.2 - Sorted matrix. <br><hr>
+Day 11.1 - Reverse each word in a given string. <br>
+Day 11.2 - Isomorphic Strings. <br><hr>
+Day 12.1 - Detect cycle in an undirected graph using DFS. <br>
+Day 12.2 - Detect cycle in an undirected graph using BFS. <br><hr>
