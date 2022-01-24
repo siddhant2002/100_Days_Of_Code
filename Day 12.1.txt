@@ -1,0 +1,65 @@
+Detect cycle in an undirected graph 
+Medium Accuracy: 35.66% Submissions: 100k+ Points: 4
+Given an undirected graph with V vertices and E edges, check whether it contains any cycle or not. 
+
+Example 1:
+
+Input:   
+
+Output: 1
+Explanation: 1->2->3->4->1 is a cycle.
+Example 2:
+
+Input: 
+
+Output: 0
+Explanation: No cycle in the graph.
+ 
+
+Your Task:
+You don't need to read or print anything. Your task is to complete the function isCycle() which takes V denoting the number of vertices and adjacency list as input parameters and returns a boolean value denoting if the undirected graph contains any cycle or not, return 1 if a cycle is present else return 0.
+
+NOTE: The adjacency list denotes the edges of the graph where edges[i][0] and edges[i][1] represent an edge.
+
+ 
+
+Expected Time Complexity: O(V + E)
+Expected Space Complexity: O(V)
+
+class Solution {
+    // Function to detect cycle in an undirected graph.
+    public boolean isCycle(int v, ArrayList<ArrayList<Integer>> adj) {
+        boolean k[]=new boolean[v];
+        Arrays.fill(k,true);
+        for(int i=0;i<v;i++)
+        {
+            if(k[i])
+            {
+                if(task(i,k,-1,adj))
+                {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+    static boolean task(int i , boolean k[] , int p , ArrayList<ArrayList<Integer>> adj)
+    {
+        k[i]=false;
+        for(int s:adj.get(i))
+        {
+            if(k[s])
+            {
+                if(task(s,k,i,adj))
+                {
+                    return true;
+                }
+            }
+            else if(p!=s)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+}

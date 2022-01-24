@@ -1,4 +1,6 @@
 Isomorphic Strings 
+
+
 Easy Accuracy: 47.07% Submissions: 39554 Points: 2
 Given two strings 'str1' and 'str2', check if these two strings are isomorphic to each other.
 Two strings str1 and str2 are called isomorphic if there is a one to one mapping possible for every character of str1 to every character of str2 while preserving the order.
