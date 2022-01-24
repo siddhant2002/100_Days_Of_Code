@@ -23,3 +23,5 @@ Day 11.1 - Reverse each word in a given string. <br>
 Day 11.2 - Isomorphic Strings. <br><hr>
 Day 12.1 - Detect cycle in an undirected graph using DFS. <br>
 Day 12.2 - Detect cycle in an undirected graph using BFS. <br><hr>
+Day 13.1 - Bipartite Graph using BFS. <br>
+Day 13.2 - Bipartite Graph using DFS. <br><hr>
