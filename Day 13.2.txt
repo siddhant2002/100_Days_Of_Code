@@ -1,5 +1,6 @@
 Bipartite Graph 
-Medium Accuracy: 40.1% Submissions: 53409 Points: 4
+
+
 Given an adjacency list of a graph adj  of V no. of vertices having 0 based index. Check whether the graph is bipartite or not.
  
 

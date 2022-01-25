@@ -1,5 +1,6 @@
 Detect cycle in an undirected graph 
-Medium Accuracy: 35.66% Submissions: 100k+ Points: 4
+
+
 Given an undirected graph with V vertices and E edges, check whether it contains any cycle or not. 
 
 Example 1:
