@@ -29,5 +29,5 @@ Day 14.1 - Detect cycle in a directed graph using BFS. <br>
 Day 14.2 - Topological sort using DFS. <br><hr>
 Day 15.1 - Detect cycle in a directed graph using DFS. <br>
 Day 15.2 - Implementing Dijkstra Algorithm. <br><hr>
-Day 16.1 - Detect cycle in a directed graph using DFS. <br>
-Day 16.2 - Implementing Dijkstra Algorithm. <br><hr>
+Day 16.1 - . <br>
+Day 16.2 - . <br><hr>
