@@ -33,3 +33,5 @@ Day 16.1 - Non Repeating Character. <br>
 Day 16.2 - Compare two linked lists. <br><hr>
 Day 17.1 - Reverse a linked list. <br>
 Day 17.2 - Quick Sort on Linked List. <br><hr>
+Day 18.1 - Reverse a linked list. <br>
+Day 18.2 - Detect Loop in linked list. <br><hr>
