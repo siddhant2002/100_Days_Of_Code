@@ -37,3 +37,5 @@ Day 18.1 - First non-repeating character in a stream. <br>
 Day 18.2 - Detect Loop in linked list. <br><hr>
 Day 19.1 - Nth node from end of linked list. <br>
 Day 19.2 - Segregate even and odd nodes in a Link List . <br><hr>
+Day 20.1 - Nth node from end of linked list. <br>
+Day 20.2 - Segregate even and odd nodes in a Link List . <br><hr>

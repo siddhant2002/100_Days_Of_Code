@@ -1,5 +1,5 @@
 Multiply two linked lists 
-Easy Accuracy: 38.67% Submissions: 26756 Points: 2
+
 Given elements as nodes of the two linked lists. The task is to multiply these two linked lists, say L1 and L2. 
 
 Note: The output could be large take modulo 109+7.
