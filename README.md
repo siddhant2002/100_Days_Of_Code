@@ -39,3 +39,5 @@ Day 19.1 - Nth node from end of linked list. <br>
 Day 19.2 - Segregate even and odd nodes in a Link List . <br><hr>
 Day 20.1 - Multiply two linked lists. <br>
 Day 20.2 - Delete nodes having greater value on right. <br><hr>
+Day 21.1 - Merge K sorted linked lists. <br>
+Day 21.2 - Remove duplicate element from sorted Linked List. <br><hr>
