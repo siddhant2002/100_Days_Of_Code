@@ -41,3 +41,7 @@ Day 20.1 - Multiply two linked lists. <br>
 Day 20.2 - Delete nodes having greater value on right. <br><hr>
 Day 21.1 - Merge K sorted linked lists. <br>
 Day 21.2 - Remove duplicate element from sorted Linked List. <br><hr>
+Day 22.1 - Rotate a Linked List. <br>
+Day 22.2 - Merge Sort for Linked List. <br><hr>
+Day 23.1 - Remove all occurences of duplicates in a linked list. <br>
+Day 23.2 - . <br><hr>
