@@ -44,4 +44,4 @@ Day 21.2 - Remove duplicate element from sorted Linked List. <br><hr>
 Day 22.1 - Rotate a Linked List. <br>
 Day 22.2 - Merge Sort for Linked List. <br><hr>
 Day 23.1 - Remove all occurences of duplicates in a linked list. <br>
-Day 23.2 - . <br><hr>
+Day 23.2 - Insertion Sort for Singly Linked List. <br><hr>
