@@ -45,3 +45,7 @@ Day 22.1 - Rotate a Linked List. <br>
 Day 22.2 - Merge Sort for Linked List. <br><hr>
 Day 23.1 - Remove all occurences of duplicates in a linked list. <br>
 Day 23.2 - Insertion Sort for Singly Linked List. <br><hr>
+Day 24.1 - Count Triplets. <br>
+Day 24.2 - Merge two sorted linked lists. <br><hr>
+Day 25.1 - Merge Sort on Doubly Linked List. <br>
+Day 25.2 - Intersection Point in Y Shapped Linked Lists. <br><hr>
