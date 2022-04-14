@@ -50,4 +50,4 @@ Day 24.2 - Merge two sorted linked lists. <br><hr>
 Day 25.1 - Merge Sort on Doubly Linked List. <br>
 Day 25.2 - Intersection Point in Y Shapped Linked Lists. <br><hr>
 Day 26.1 - Rearrange a linked list. <br>
-Day 26.2 - . <br><hr>
+Day 26.2 - Topological sort using BFS (kahn's Algorithm). <br><hr>
