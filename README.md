@@ -194,8 +194,8 @@ Day 96.2 - Bipartite Graph using DFS. <br><hr>
 Day 97.1 - Detect cycle in a directed graph using BFS. <br>
 Day 97.2 - Detect cycle in a directed graph using BFS. <br><hr>
 Day 98.1 - Topological sort using DFS. <br>
-Day 98.2 - Detect cycle in a directed graph using DFS. <br>
-Day 99.1 - Implementing Dijkstra Algorithm. <br><hr>
+Day 98.2 - Detect cycle in a directed graph using DFS. <br><hr>
+Day 99.1 - Implementing Dijkstra Algorithm. <br>
 Day 99.2 - Non Repeating Character. <br><hr>
 Day 100.1 - Compare two linked lists. <br>
 Day 100.2 - Reverse a linked list. <br>
