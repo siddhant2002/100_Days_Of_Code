@@ -179,8 +179,6 @@ Day 89.1 - Alternate positive and negative numbers. <br>
 Day 89.2 - Frequencies of Limited Range Array Elements. <br><hr>
 Day 90.1 - Reverse words in a given string. <br>
 Day 90.2 - K-th element of two sorted Arrays. <br><hr>
-Day 90.1 - Maximum and minimum of an array using minimum number of comparisons.<br>
-Day 90.2 - Sort an array of 0s, 1s and 2s. <br><hr>
 Day 91.1 - Union of two arrays. <br>
 Day 91.2 - Cyclically rotate an array by one. <br><hr>
 Day 92.1 - Kadane's Algorithm. <br>
@@ -194,10 +192,10 @@ Day 95.2 - Detect cycle in an undirected graph using BFS. <br><hr>
 Day 96.1 - Bipartite Graph using BFS. <br>
 Day 96.2 - Bipartite Graph using DFS. <br><hr>
 Day 97.1 - Detect cycle in a directed graph using BFS. <br>
-Day 97.2 - Detect cycle in a directed graph using BFS. <br>
-Day 98.1 - Topological sort using DFS. <br><hr>
+Day 97.2 - Detect cycle in a directed graph using BFS. <br><hr>
+Day 98.1 - Topological sort using DFS. <br>
 Day 98.2 - Detect cycle in a directed graph using DFS. <br>
 Day 99.1 - Implementing Dijkstra Algorithm. <br><hr>
-Day 99.2 - Non Repeating Character. <br>
-Day 100.1 - Compare two linked lists. <br><hr>
+Day 99.2 - Non Repeating Character. <br><hr>
+Day 100.1 - Compare two linked lists. <br>
 Day 100.2 - Reverse a linked list. <br>
