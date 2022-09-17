@@ -54,7 +54,7 @@ Day 26.2 - Topological sort using BFS (kahn's Algorithm). <br><hr>
 Day 27.1 - Merge k Sorted Arrays. <br>
 Day 27.2 - Heap Sort. <br><hr>
 Day 28.1 - Rearrange a linked list. <br>
-Day 28.2 - Topological sort using BFS (kahn's Algorithm). <br><hr>
+Day 28.2 - Binary Tree Level Order Traversal II. <br><hr>
 Day 29.1 - Missing number in array. <br>
 Day 29.2 - Trailing zeroes in factorial. <br><hr>
 Day 30.1 - BFS of Graph. <br>
